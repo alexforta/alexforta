@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Sobre mí
 
 Puedes conocer mis proyectos y ver más sobre mi trabajo en **[aforta.dev](https://aforta.dev)**.

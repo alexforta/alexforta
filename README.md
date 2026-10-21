@@ -1,5 +1,8 @@
 ## Sobre mí
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-aforta.dev-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aforta.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Fern%C3%A1ndez%20Orta-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alex-fernandez-orta-659255408/)
+
 Puedes conocer mis proyectos y ver más sobre mi trabajo en **[aforta.dev](https://aforta.dev)**.
 
 ## Lenguajes y tecnologías web
